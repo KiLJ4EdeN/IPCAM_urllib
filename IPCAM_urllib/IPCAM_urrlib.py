@@ -1,8 +1,6 @@
 import urllib.request
 import cv2
 import numpy as np
-import face_recognition
-from PIL import Image, ImageDraw
 
 # open the desired url to take a photo
 # example : (url = 'http://192.168.10.1/media/?action=snapshot')
