@@ -5,7 +5,7 @@ import face_recognition
 from PIL import Image, ImageDraw
 
 # open the desired url to take a photo
-# exapmle : (url = 'http://192.168.10.1/media/?action=snapshot')
+# example : (url = 'http://192.168.10.1/media/?action=snapshot')
 url = 'http://camera_ip/snapshot_end'
 
 # enter the username and password
