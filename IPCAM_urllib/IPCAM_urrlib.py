@@ -41,5 +41,5 @@ while 1 > 0:
     
     # set a criteria for the code to stop
     if ord('q') == cv2.waitKey(10):
-        cv2.destroyallwindows()
+        cv2.destroyAllWindows()
         exit(0)
